@@ -2,7 +2,10 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+@author: dennis.borchardt
+
+This script will be used to connect to the HBase Database and will be insert 
+some rows and columns in the HBase database.
 """
 
 import happybase as base
